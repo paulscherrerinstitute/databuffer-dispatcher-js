@@ -1,0 +1,30 @@
+.cache/
+build/
+coverage/
+dist/
+docs/api/
+docs/dependencies.*
+node_modules/
+
+# OS generated files
+# ----------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# log files
+*.log
+
+# Backup files of various editors
+# ----------------------------------------------------------------------
+*~
+*.bak
+*.swp
+
+# Configurations of various IDEs
+# ----------------------------------------------------------------------
+.vscode/
